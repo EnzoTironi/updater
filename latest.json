@@ -5,19 +5,19 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/zoen-space/insight-updates/releases/download/v0.1.8/InSight_0.1.8_aarch64.dmg"
+      "url": "https://github.com/enzotironi/updater/releases/download/v0.1.8/InSight_0.1.8_aarch64.dmg"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/zoen-space/insight-updates/releases/download/v0.1.8/InSight_0.1.8_x64.dmg"
+      "url": "https://github.com/enzotironi/updater/releases/download/v0.1.8/InSight_0.1.8_x64.dmg"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/zoen-space/insight-updates/releases/download/v0.1.8/insight_0.1.8_amd64.AppImage"
+      "url": "https://github.com/enzotironi/updater/releases/download/v0.1.8/insight_0.1.8_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/zoen-space/insight-updates/releases/download/v0.1.8/InSight_0.1.8_x64-setup.exe"
+      "url": "https://github.com/enzotironi/updater/releases/download/v0.1.8/InSight_0.1.8_x64-setup.exe"
     }
   }
 }
